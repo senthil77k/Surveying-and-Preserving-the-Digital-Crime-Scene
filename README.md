@@ -1,7 +1,7 @@
 # Surveying and Preserving the Digital Crime Scene
 
-# Name:SENTHIL KUMARAN C
-# Reg.no:212223220103
+Name:ROHAN J
+Reg.no:212223O40171
 
 ## **Aim:**
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
@@ -23,7 +23,8 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 - Click **Create New Case**.  
 
 
-![Screenshot 2025-03-26 184953](https://github.com/user-attachments/assets/212bfbb3-be75-459b-bd10-ed7ebf4e3242)
+![Screenshot 2025-03-22 113352](https://github.com/user-attachments/assets/d7b6b0e4-9bf1-4180-8f08-bd982e7156a7)
+
 
 - Enter a **Case Name** (e.g., `Autopsy1`).  
 - Choose a **Case Folder** location.  
@@ -40,12 +41,14 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 - Select **Local Disk** → **next** 
 
-![Screenshot 2025-03-26 185635](https://github.com/user-attachments/assets/c109efbf-fa33-49d1-b371-ec9d7c75bc0c)
+![Screenshot 2025-03-22 105903](https://github.com/user-attachments/assets/bd9c7f9b-bb13-417a-a556-1e12c8918e69)
+
 
 
 - Select Disk → **Choose the VHD drive (`Drive1`)**
 
-![Screenshot 2025-03-26 190245](https://github.com/user-attachments/assets/270a0173-23a1-4b17-b23f-1a7e2d298506)
+![Screenshot 2025-03-27 142633](https://github.com/user-attachments/assets/3f1e66a8-97c7-4ded-b065-daae247385e4)
+
 
 - Click **Next** → Keep default settings → Click **Finish**.  
 - Wait for Autopsy to process the disk.  
@@ -55,12 +58,14 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 ![Screenshot 2025-03-26 190321](https://github.com/user-attachments/assets/2c2a5161-dd7f-473b-8881-65e01b5c5dad)
 
-![Screenshot 2025-03-26 190331](https://github.com/user-attachments/assets/852d9604-1547-4550-8601-3fa7a612451c)
+
 
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
+![Screenshot 2025-03-27 142738](https://github.com/user-attachments/assets/ba543902-eb59-45bd-896d-cab60cbe9ddc)
 
-![Screenshot 2025-03-26 190346](https://github.com/user-attachments/assets/d4aae3fe-aa89-4c99-92f3-e7286839eaf6)
+
+
 
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
@@ -70,14 +75,18 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 ## Output :
 ### Folder before deleting the files
 
-![Screenshot 2025-03-26 190356](https://github.com/user-attachments/assets/757aade6-4340-4e07-94ec-e6565e5eea6c)
+![Screenshot 2025-03-27 142807](https://github.com/user-attachments/assets/b1f78713-1156-4d05-be29-52daf1cdfad0)
+
 
 ### Folder after deleting the files
 
-![Screenshot 2025-03-26 190401](https://github.com/user-attachments/assets/2e79cf2b-2e30-471f-97df-48631a1568f4)
+![Screenshot 2025-03-22 105704](https://github.com/user-attachments/assets/9928a730-ddd8-4374-b28b-d1ed73af812a)
+
 
 ### Folder after extracting the deleted images using autopsy
-![Screenshot 2025-03-26 190407](https://github.com/user-attachments/assets/f71203f3-db69-4e53-8b46-41763dafdd79)
+![Screenshot 2025-03-27 142807](https://github.com/user-attachments/assets/bb49a142-6dca-4ec8-b142-5868ef0d4b5e)
+
+
 
 
 ## Result:
